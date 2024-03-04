@@ -1,0 +1,19 @@
+{
+  "name": "odin-basic-info-site",
+  "version": "1.0.0",
+  "description": "The Odin Project - Basic Informational Site from Node.js Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryleedwards/odin-basic-info-site.git"
+  },
+  "author": "Ryle Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryleedwards/odin-basic-info-site/issues"
+  },
+  "homepage": "https://github.com/ryleedwards/odin-basic-info-site#readme"
+}
